@@ -1,5 +1,4 @@
-# s4HANA-fi-co-PRACTICE
-CREATED COMPANY CODE AND CONFIGURED ENTERPRISE STRUCTURE, VARIANTS, COA, CONTROLLING SETTINGS,  GL SETTINGS AND APR 
+
 # SAP S/4HANA FI-CO Practice Project
 
 Hands-on practice in SAP S/4HANA Finance (SAP GUI, training system): created a company code and configured enterprise structure, variants, chart of accounts, controlling settings, GL settings and AP/AR foundation.
